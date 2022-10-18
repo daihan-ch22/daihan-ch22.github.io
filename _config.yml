@@ -20,7 +20,7 @@ title                    : "danc_blog"
 title_separator          : "-"
 subtitle                 : "Version 1.0"# site tagline that appears below site title in masthead
 name                     : "danc"
-description              : "switching my blog from Tistory"
+description              : "personal blog"
 url                      : "https://daihan-ch22.github.io" # the base hostname & protocol for your site e.g. "https://daihan-ch22.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -30,9 +30,9 @@ masthead_title           : # overrides the website title displayed in the masthe
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
+  provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
   disqus:
-    shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname            : "danc-blog" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -105,17 +105,17 @@ analytics:
 # Site Author
 author:
   name             : "danc"
-  #avatar           : "/assets/images/profile.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Hello World!"
-  location         : "KR"
+  avatar           : "/assets/images/profile.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Just another junior developer <br><br> - 블로그 이사중"
+  location         : "Korea, Republic of"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:daehan.dan.choi@gmail.com"
-    - label: "Website"
+    - label: "Tistory"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "https://danc9921.tistory.com/m/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
