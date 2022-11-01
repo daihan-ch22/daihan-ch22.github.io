@@ -1,7 +1,8 @@
 ---
-title: "Main Project 돌아보기"
+title: "[Main Project] Main Project 돌아보기"
 categories:
 - 회고
+- Codestates Main Project
 toc: true
 toc_label: "Main Project 돌아보기"
 toc_sticky: true
