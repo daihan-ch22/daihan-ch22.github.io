@@ -75,6 +75,14 @@ CodeDeploy Application - Application Group에서 진행 상황을 한눈에 볼 
 
 **(4)CodeDeploy가 S3에서 zip을 가져와 unzip 한 뒤에 yml에서 설정한 대로 EC2에 배포** 
 
+이 부분을 위해서 EC2에 Amazon CodeDeploy Agent를 설치해야 한다. <br>
+프로젝트 초기에 나는 일반 우분투로 EC2를 구동시켰었는데 Agent를 설치하기 위해서는 Ruby를 먼저 설치해야 한다. <br>
+여기서 문제가 발생했다. 대부분의 참고 자료에는 전부 최신 버전 Ruby를 받으라고 되어있었는데 <br>
+**Agent는 Ruby2.x에서만 설치가 되고 최신인 Ruby3.x에서는 설치가 안 되는 이슈가 있었다.** <br>
+
+여러 삽질과 [구글링 끝에 GitHub에서 누가 스크립트를 작성해서 올려놨었는데](https://github.com/aws/aws-codedeploy-agent/issues/301) EC2에서 적용하니 설치가 잘 되었다. <br>
+나중에 EC2를 Amazon Linux2로 바꾸게 되었지만 공식 문서대로 설치했더니 별문제 없이 잘 진행되었다. <br>
+
 <details markdown="1">
 <summary>yml코드 접기/펼치기</summary>
 
