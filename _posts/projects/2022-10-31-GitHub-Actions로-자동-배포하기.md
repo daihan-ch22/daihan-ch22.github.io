@@ -1,7 +1,7 @@
 ---
 title: "[Main Project] GitHub Actions로 자동 배포 (CI/CD)"
 categories:
-- Codestates Main Project
+- Codestates Project
 tags:
 - Spring boot
 - GitHub Actions

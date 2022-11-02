@@ -1,8 +1,7 @@
 ---
-title: "[Main Project] Main Project 돌아보기"
+title: "Main Project 돌아보기"
 categories:
 - 회고
-- Codestates Main Project
 toc: true
 toc_label: "Main Project 돌아보기"
 toc_sticky: true
@@ -11,7 +10,7 @@ toc_sticky: true
 {: .notice}
 코드 스테이츠 부트캠프에서 진행했던 메인 프로젝트에 대한 개인 회고글 입니다.
 
-## 메인프로젝트 종료 
+## 메인 프로젝트 종료 
 Main Project가 시작한 지 얼마 되지도 않은 것 같은데 벌써 프로젝트를 마무리하고 이렇게 회고를 작성하고 있다.<br> 
 이번에도 Pre-Project 때와 마찬가지로 프로젝트를 진행하면서 느꼈었던 부분들을 정리해 보려 한다.  <br><br>
 메인 프로젝트는 처음부터 뭘 만들지 정해야 했기 때문에 초반에 아이디어 회의나 테이블 설계, 요구사항 정의서 등<br>
