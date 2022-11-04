@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "danc"
   avatar           : "/assets/images/profile.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Just another junior developer <br><br> - 티스토리에서 이전 -"
+  bio              : "Junior Backend Developer  <br><br> 이전 글들은 아래 Tistory blog<br>에서 확인 가능합니다 :)"
   location         : "Korea, Republic of"
   email            :
   links:
