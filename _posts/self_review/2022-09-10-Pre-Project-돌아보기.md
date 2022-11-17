@@ -1,5 +1,5 @@
 ---
-title: "Pre Project 돌아보기"
+title: "[회고] Pre Project 돌아보기"
 categories:
 - 회고
 toc: true
