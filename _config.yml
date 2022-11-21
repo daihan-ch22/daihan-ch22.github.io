@@ -106,14 +106,14 @@ analytics:
 author:
   name             : "danc"
   avatar           : "/assets/images/profile.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Junior Backend Developer  <br><br> 이전 글들은 Tistory blog에서 <br> 확인 가능합니다."
+  bio              : "보초 백엔드 개발자"
   location         : "Korea, Republic of"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:daehan.dan.choi@gmail.com"
-    - label: "Tistory blog"
+    - label: "Tistory blog(old)"
       icon: "fas fa-fw fa-link"
       url: "https://danc9921.tistory.com/"
     - label: "Twitter"
