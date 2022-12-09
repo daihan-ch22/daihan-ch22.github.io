@@ -10,21 +10,43 @@
   {% assign title = post.title %}
 {% endif %}
 
+
 <div class="{{ include.type | default: 'list' }}__item">
   <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
-    {% if include.type == "grid" and teaser %}
-      <div class="archive__item-teaser">
-        <img src="{{ teaser | relative_url }}" alt="">
+    {% if include.type == "list" and teaser %}
+    <div style="margin-bottom: 10px;">
+      <div style="float: left; margin-right: 10px;">
+        <img src="{{ teaser | relative_url }}" alt="" style="width: 220px; object-fit: cover;">
       </div>
+      <div>
+        <h2 class="archive__item-title no_toc" itemprop="headline">
+          {% if post.link %}
+          <a href="{{ post.link }}">{{ title }}</a> <a href="{{ post.url | relative_url }}" rel="permalink"><i class="fas fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
+          {% else %}
+          <a href="{{ post.url | relative_url }}" rel="permalink">{{ title }}</a>
+          {% endif %}
+        </h2>
+        {% include page__meta.html type=include.type %}
+        {% if post.excerpt %}<p class="archive__item-excerpt" style="float: left;" itemprop="description">{{ post.excerpt | markdownify | strip_html | truncate: 160 }}</p>{% endif %}
+      </div>
+      <div style="clear: both;"></div>
+    </div>
+
+    {% else %}
+    {% if include.type == "grid" and teaser %}
+    <div class="archive__item-teaser">
+      <img src="{{ teaser | relative_url }}" alt="">
+    </div>
     {% endif %}
-    <h3 class="archive__item-title no_toc" itemprop="headline">
+    <h2 class="archive__item-title no_toc" itemprop="headline">
       {% if post.link %}
-        <a href="{{ post.link }}">{{ title }}</a> <a href="{{ post.url | relative_url }}" rel="permalink"><i class="fas fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
+      <a href="{{ post.link }}">{{ title }}</a> <a href="{{ post.url | relative_url }}" rel="permalink"><i class="fas fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
       {% else %}
-        <a href="{{ post.url | relative_url }}" rel="permalink">{{ title }}</a>
+      <a href="{{ post.url | relative_url }}" rel="permalink">{{ title }}</a>
       {% endif %}
-    </h3>
+    </h2>
     {% include page__meta.html type=include.type %}
     {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify | strip_html | truncate: 160 }}</p>{% endif %}
+    {% endif %}
   </article>
 </div>
