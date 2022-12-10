@@ -5,6 +5,8 @@ categories:
 toc: true
 toc_label: "Pre Project 돌아보기"
 toc_sticky: true
+header:
+  teaser: "/assets/images/projects.jpg"
 ---
 
 {: .notice}
