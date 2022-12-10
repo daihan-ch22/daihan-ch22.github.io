@@ -6,7 +6,7 @@ toc: true
 toc_label: "Main Project 돌아보기"
 toc_sticky: true
 header:
-  teaser: "/assets/images/projects.jpg"
+  teaser: "/assets/images/selfreview.jpg"
 ---
 
 {: .notice}
