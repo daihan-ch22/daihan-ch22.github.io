@@ -13,7 +13,7 @@ toc_label: "MYSELF"
 {: .text-center}
 
 
-백엔드 개발자가 되기 위해 열심히 공부 중에 있습니다. 
+발전하는 개발자가 되기 위해 열심히 공부 중에 있습니다. 
 {: .text-center}
 
 
