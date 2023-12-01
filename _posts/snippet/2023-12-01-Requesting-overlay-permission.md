@@ -1,7 +1,7 @@
 ---
 title: "Requesting overlay permission"
 categories:
-  - snippet
+  - Snippet
 toc: true
 toc_label: "Requesting overlay permission"
 toc_sticky: true
