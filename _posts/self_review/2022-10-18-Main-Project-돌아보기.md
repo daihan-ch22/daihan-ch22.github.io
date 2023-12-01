@@ -1,7 +1,7 @@
 ---
 title: "[회고] Main Project 돌아보기"
 categories:
-- 회고
+- Self_Review
 toc: true
 toc_label: "Main Project 돌아보기"
 toc_sticky: true

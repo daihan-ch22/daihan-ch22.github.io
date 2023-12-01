@@ -1,7 +1,7 @@
 ---
 title: "Requesting overlay permission"
 categories:
-  - snippet
+  - Snippet
 toc: true
 toc_label: "Requesting overlay permission"
 toc_sticky: true
@@ -75,7 +75,7 @@ fun initOverlay() {
 }
 ```
 
-# 오버레이 없애기
+## 오버레이 없애기
 
 ```kotlin
 fun removeOverlay() {
@@ -87,5 +87,5 @@ fun removeOverlay() {
 }
 ```
 
-### reference
+## reference
 https://stickode.tistory.com/158
