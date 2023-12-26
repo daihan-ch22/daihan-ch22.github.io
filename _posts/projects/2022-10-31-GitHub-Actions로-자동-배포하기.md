@@ -8,8 +8,8 @@ tags:
 toc: true
 toc_label: "GitHub Actions CI/CD"
 toc_sticky: true
-header:
-  teaser: "/assets/images/projects.jpg"
+#header:
+#  teaser: "/assets/images/projects.jpg"
 ---
 
 {: .notice}

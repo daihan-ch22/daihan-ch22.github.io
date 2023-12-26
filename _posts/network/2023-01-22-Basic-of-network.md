@@ -5,8 +5,8 @@ categories:
 toc: true
 toc_label: "Basics of network"
 toc_sticky: true
-header:
- teaser: "/assets/images/network.jpg"
+#header:
+# teaser: "/assets/images/network.jpg"
 ---
 
 {: .notice}
