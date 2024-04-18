@@ -1,8 +1,5 @@
 ---
 title: AWS S3를 사용한 이미지 업로드
-date: 
-  created: 2022-10-20
-  updated: 2022-10-22
 slug: s3-image-upload
 categories:
   - web

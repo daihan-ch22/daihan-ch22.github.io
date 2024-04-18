@@ -83,7 +83,7 @@ So far I only did two interviews and realised my basic skills are not ready. How
 just take interviews. After each of the interview, I did a little recap and this actually helps a lot by showing parts that I could not answer,
 common questions, etc.
 
-![recap](/assets/images/22-12-12-2022review/12DEC.jpg "recap"){: .align-center}
+![recap](/docs/assets/images/22-12-12-2022review/12DEC.jpg "recap"){: .align-center}
 
 I believe the key reason of why my basic is not enough is that the way I studied was if I got stuck, find the error, search on Google and fix it, which everyone can do it. 
 The problem was I did not approach more deeply to solve the problem.
