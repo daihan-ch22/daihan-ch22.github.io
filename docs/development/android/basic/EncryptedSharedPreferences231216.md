@@ -1,6 +1,7 @@
 ---
 title: EncryptedSharedPreferences
 slug: encryptedSharedPreferences
+created: 2023-12-16
 categories:
   - Android
 ---

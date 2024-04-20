@@ -6,7 +6,6 @@ categories:
   - self-review
 ---
 
-!!! info
     코드 스테이츠 부트캠프에서 진행했던 메인 프로젝트 개인 회고
 
 

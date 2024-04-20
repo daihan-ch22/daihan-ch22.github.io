@@ -59,6 +59,8 @@ plugins:
       post_date_format: full
   - git-revision-date-localized:
       enable_creation_date: true
+      exclude:
+        - blog/*
       type: date
   - search
   - privacy
