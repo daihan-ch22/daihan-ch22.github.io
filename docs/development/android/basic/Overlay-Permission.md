@@ -86,5 +86,33 @@ fun removeOverlay() {
 
 ---
 
+## 삼성 단말기에서는 통화중 사용 불가
+
+!!! warn
+    **삼성 단말기(갤럭시 기기)에서 공식 경로(Google Play & One Store 등)가 아닌 방법으로 apk를 설치 할 경우<br>
+    보안 관련 메시지가 나온다.**
+
+다만 모든 OS에서 뜨는건 아니고 Android13(One UI 5.0)이상에서 발생하는데 "무시하고 설치"하게되면
+전화 통화 시 Overlay 기능이 차단된다. (SYSTEM_ALERT_WINDOW)
+
+삼성 보안 정책이기 떄문에 MDM처럼 기기 관리 앱을 통해 설치하지 않는 이상, 해당 기능을 사용할 수 없을것으로 보인다.
+
+Settings.canDrawOverlays를 통해 오버레이 가능 여부를 확인해보면 권한을 부여했음에도 전화 통화 시 가능 여부가 불가능으로 변경된다.
+
+```kotlin
+Settings.canDrawOverlays(this)
+```
+
+!!! info
+    기능 사용이 꼭 필요한 경우, 보통의 방법으로 3가지가 있을 것 같다.
+
+    1. 공식 스토어를 통해 배포 
+    2. ADB로 밀어넣기 (삼성에서 개발을 위해 허용한 방법)
+    3. Android 12이하 기기로 설치
+
+---
+
 ## reference
-https://stickode.tistory.com/158
+https://stickode.tistory.com/158  
+https://forum.developer.samsung.com/t/android13-system-alert-window-permission-not-checked/24454
+
