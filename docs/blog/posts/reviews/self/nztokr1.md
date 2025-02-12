@@ -15,7 +15,7 @@ categories:
 하지만 코로나가 결국 뉴질랜드에도 찾아왔고 몇번의 락다운 (한국과는 다르게 필수시설 제외 모든 비즈니스들이 닫았다.. 20년에 한 번, 21년에 길게 한번)으로 정부 보조금을 받으며 집에서 쉰 기간이 있었다. 태생 집돌이인 나에게 있어서는 처음 1~2달 정도는 꽤나 좋았다. 장만 봐오고 술 마시면서 게임하고, 푹 자고.. 자취를 하니 뭐라 하는 사람도 없어서 완전 내 세상이었다. 
 
 
-![image](../../../../assets/images/22-04-16-nztokr/nztokr1.jpeg){ width="480" height="640" style="display: block; margin: 0 auto" }
+![image](../../../../assets/images/22-04-16-nztokr/nztokr1-1.jpeg){ width="480" height="640" style="display: block; margin: 0 auto" }
 
 당시 뉴질랜드에서는 코로나 통제 시스템으로 Alert level 1~4를 만들었는데 Lv4는 말 그대로 총 봉쇄였고 Lv3는 그보다 살짝 완화된 조치였다. 나는 호텔에서 일하니 결론적으로 Lv2가 되어야 일을 나갈 수 있었다. _(내가 소속된 컨시어지 팀은 필수 인력에 포함이 안되었다. 리셉션들만 제한적으로 나와 근무했음. 하긴 하루에 1명 체크인했으니 사람이 필요 없었다)_ 
 
@@ -23,13 +23,13 @@ categories:
 
 내 취업비자는 22년 7월 만기였고 코로나로 인한 특별 영주권도 신청 조건이 되었으나, 이젠 나도 30대를 바라보고 부모님의 나이도 늘어나니 적어도 같은 나라에는 있고 싶었다. 부모님도 타지에 아들 혼자 덜렁 있고 코로나까지 터져있으니 걱정을 많이 하고 있었던 상황이라 한국에 돌아가겠다 라는 결론이 났고, 그 준비는 생각보다 빠르게 이루어졌다.
 
-![image](../../../../assets/images/22-04-16-nztokr/nztokr2.jpg){ width="480" height="640" style="display: block; margin: 0 auto" }
+![image](../../../../assets/images/22-04-16-nztokr/nztokr1-2.jpg){ width="480" height="640" style="display: block; margin: 0 auto" }
 
 3월 한국으로 가는것이 정해지고, 12월 일 복귀하기 전까지 이런저런 준비를 했다. 집주인과의 조기 계약 해지, 공과금 해약, 비행기 티켓 등.. 시간적 여유가 많았으니 매우 수월하게 진행되었다.
 
 문제는 한국을 나만 혼자 가는 것이 아닌 내가 키우던 고양이도 같이 데려갈 예정이었기 때문에 추가적으로 알아봐야 할 것들이 생각보다 매우 많았다.
 
-![image](../../../../assets/images/22-04-16-nztokr/nztokr3.jpeg){ width="480" height="640" style="display: block; margin: 0 auto" }
+![image](../../../../assets/images/22-04-16-nztokr/nztokr1-3.jpeg){ width="480" height="640" style="display: block; margin: 0 auto" }
 
 먼저 가장 했던것은 Pet Exporter를 알아보는 것이었다. 그중에서 집에서 가장 가까웠고 가격마저 합리적 이었던 AeroPets라는 곳에서 진행하기로 했다. 반려동물 출국에 관련 모든 걸 대행해주는 업체였는데, 나는 항공편은 개인적으로 하기로 하고 서류대행 만 부탁했다. _(항공편 대행까지 하면 100만원 넘게 추가금액이 들었다)_
 
