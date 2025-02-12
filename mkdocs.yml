@@ -64,6 +64,7 @@ plugins:
       type: date
   - search
   - privacy
+  - tags
 
 markdown_extensions:
   - pymdownx.superfences
@@ -88,6 +89,9 @@ extra:
 #    actions:
 #      - accept
 #      - manage
+  analytics:
+    provider: google
+    property: G-RJMESR2D6L
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/daihan-ch22
